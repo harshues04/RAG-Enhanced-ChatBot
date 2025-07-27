@@ -1,4 +1,4 @@
-# Student Career Guidance RAG Chatbot
+# Career Guidance Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot built with Flask and LangChain that provides guidance on placements, internships, and higher studies for university students.
 
